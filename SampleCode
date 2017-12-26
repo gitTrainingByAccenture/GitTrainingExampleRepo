@@ -1,1 +1,2 @@
+import selenium.hq;
 driver.getUrl("www.google.com");
